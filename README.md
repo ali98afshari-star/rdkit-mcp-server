@@ -2,6 +2,8 @@
 
 RDKit MCP Server is an open-source MCP server that enables language models to interact with RDKit through natural language. The goal is to provide agent-level access to every function in RDKit 2025.3.1 without writing any code.
 
+> 📖 Persian guide for Iranian pharmacists: [README.fa.md](./README.fa.md)
+
 ## Features
 
 * **Seamless Integration**: Exposes RDKit functions via the Model Context Protocol (MCP).
